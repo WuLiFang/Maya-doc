@@ -44,5 +44,10 @@ cgteamwork
 
 手动设置 :ref:`联资产` 所使用的数据库
 
+不开Maya进行关联
+--------------------
 
+.. figure:: cgtw_link_menu.png
+
+  在CGTeamWork的镜头任务文件框中已添加快捷方式, 直接点击即可关联文件框中的所有maya文件
 
